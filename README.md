@@ -1,6 +1,7 @@
 # GreenhouseManager
 Greenhouse sensor manager
 This project is part of my University of St Thomas SEIS739 project
+Group members:(1) Sasha Schrandt
 
 This project aims to provide a UI for research on growing tropical fruit in Minnesota in a greenhouse environment. In particular, this greenhouse is researching methods for growing Hawaiian breadfruit to fruiting. There are traditionally a variety of factors that could lead to death of the tree or prevent it from fruiting in the first place.
 
